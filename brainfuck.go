@@ -1,5 +1,5 @@
-// Package brainfuck is the unofficial brainfuck package
-package brainfuck
+// Package gobrainfuck is the unofficial brainfuck package
+package gobrainfuck
 
 import (
 	"strings"
